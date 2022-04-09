@@ -8,3 +8,5 @@ cnn_keras.py
 checkpoints
 tensorboard
 .vscode
+
+venv/
